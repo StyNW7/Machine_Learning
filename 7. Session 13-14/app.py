@@ -108,5 +108,5 @@ elif option == "Berdasarkan Kriteria Fitur":
             st.dataframe(recommendations)
 
 
-# To run this copy the command line below:
+# To run this copy the command line below and run it in the terminal:
 # streamlit run app.py
